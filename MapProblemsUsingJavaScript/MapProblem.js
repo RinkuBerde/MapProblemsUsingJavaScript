@@ -1,0 +1,1 @@
+console.log("Welcome to Map Problems Using JavaScript")
